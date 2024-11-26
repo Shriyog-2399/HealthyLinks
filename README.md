@@ -1,4 +1,4 @@
-# URL Filtering Too
+# URL Filtering Tool
 
 This Python script reads URLs from standard input, checks their HTTP status, and filters out URLs that return a 200 OK status. The valid URLs are saved in a specified output file, making it easier to identify active URLs.
 
